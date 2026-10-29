@@ -34,17 +34,6 @@ The notebook covers:
 
 These are exploratory associations from a single year of provincial data, including imputed values. They do not establish a causal effect of transfers on human development.
 
-## Viewing and running
-
-Open the notebook on GitHub to read the saved analysis, or download it and open it in Jupyter or Google Colab. The repository contains only this README and the submission notebook.
-
-To rerun the analysis, place these original input files beside the notebook:
-
-- `Dataset Lomba Data Analytics TECHFEST 2025 - new.csv`
-- `38 Provinsi Indonesia - Provinsi.json` (province boundaries used for the map)
-
-The input files are not bundled. The notebook uses Python with pandas, NumPy, Matplotlib, seaborn, SciPy, GeoPandas, and scikit-learn. Its original package versions were not recorded, so results and rendering may vary across environments.
-
 ## Contributors
 
 **Team BebasAja - Universitas Gadjah Mada**
